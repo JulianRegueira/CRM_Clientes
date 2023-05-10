@@ -4,7 +4,7 @@ from tkinter import ttk
 import sqlite3
 
 root = Tk()
-root.title("MICRO CRM")
+root.title("Micro CRM Clientes")
 
 conn = sqlite3.connect('crm.db')
 
